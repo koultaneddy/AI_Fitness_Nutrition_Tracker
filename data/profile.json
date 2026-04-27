@@ -1,0 +1,236 @@
+{
+  "stats": {
+    "age": 28,
+    "height": "5'8.5\"",
+    "weight_lbs": 170.5,
+    "starting_weight_lbs": 188,
+    "estimated_bf_percent": "14-18%",
+    "estimated_lean_mass_lbs": "143-146",
+    "last_weigh_in": "2026-04-26"
+  },
+  "goal": {
+    "phase": "cut",
+    "primary_objective": "Lose fat while preserving muscle mass",
+    "strategy": "High protein floor, sufficient carbs for performance, fat fills remainder under calorie ceiling"
+  },
+  "nutrition_targets": {
+    "calories_ceiling": 2000,
+    "protein_g_floor": 170,
+    "protein_g_typical": 190,
+    "carbs_priority": "60-70% of remaining calories after protein",
+    "fat_priority": "remainder after protein and carbs",
+    "notes": "Protein is the hard constraint. Carbs are the performance lever — enough to sustain training and daily activity. Fat fills remaining calories. Specific carb/fat gram counts are secondary to hitting protein floor and staying under calorie ceiling."
+  },
+  "routine": {
+    "structure": "6-day push/pull/cardio split with 1 full rest day. Days are positional (Day 1-7), not calendar-locked.",
+    "days": {
+      "day_1": {
+        "label": "Upper Push",
+        "exercises": [
+          {
+            "name": "Standing Overhead Press",
+            "sets": 4,
+            "reps": "5-10",
+            "working_weight_lbs": 100,
+            "notes": "Perform before bench press — permanent order change this cycle. Significant performance improvement observed after reorder. Recently increased from 75 lbs."
+          },
+          {
+            "name": "Bench Press",
+            "sets": 4,
+            "reps": "5-8",
+            "working_weight_lbs": 160,
+            "notes": "Recent PR during cut. No spotter — conservative approach. Do not push to failure without safety measures."
+          },
+          {
+            "name": "Close Grip Bench Press",
+            "sets": 3,
+            "reps": "8-12",
+            "working_weight_lbs": 115,
+            "notes": "Grip just inside shoulder width. Monitor elbow flare on final set when fatigued."
+          },
+          {
+            "name": "Lateral Raises",
+            "sets": 3,
+            "reps": "10-15",
+            "working_weight_lbs": 20,
+            "notes": "Slow eccentric 2-3 sec, pause at top. Pinky and elbow lead, slight forward lean, weights slightly in front of midline. Technique corrected this cycle — significant improvement in stimulus."
+          },
+          {
+            "name": "Tricep Extension / Pushdown",
+            "sets": "2-3",
+            "reps": "10-15",
+            "working_weight_lbs": null,
+            "notes": "Newly added this cycle for arm aesthetics. Working weight not yet established — log first session weight when performed."
+          }
+        ]
+      },
+      "day_2": {
+        "label": "Lower Push",
+        "exercises": [
+          {
+            "name": "Back Squat",
+            "sets": 4,
+            "reps": "5-8",
+            "working_weight_lbs": 230,
+            "notes": "Recent PR. Belt required. Pause and reset between reps acceptable on heavy sets. Bracing cue: form a second belt with abs underneath the weightlifting belt."
+          },
+          {
+            "name": "Pause Back Squat",
+            "sets": 3,
+            "reps": 5,
+            "working_weight_lbs": 170,
+            "notes": "3-second pause at bottom. Belt required. Planned progression to 175 lbs next appropriate session."
+          },
+          {
+            "name": "Romanian Deadlift",
+            "sets": 3,
+            "reps": "8-12",
+            "working_weight_lbs": 185,
+            "notes": "Belt and straps. Full ROM, controlled eccentric."
+          },
+          {
+            "name": "Overhead Plate Lunges",
+            "sets": 3,
+            "reps": "20 total (10 each leg)",
+            "working_weight_lbs": 45,
+            "notes": "Stationary lunges. 45 lb plate held overhead. Core bracing critical — plate must stay directly overhead throughout."
+          },
+          {
+            "name": "Calf Raises",
+            "sets": 3,
+            "reps": "15-20",
+            "working_weight_lbs": "35 lb kettlebells each hand",
+            "notes": "Feet close together, balls of feet elevated on weight plate for full ROM. Slow eccentric."
+          }
+        ]
+      },
+      "day_3": {
+        "label": "Cardio / Active Recovery",
+        "exercises": [
+          {
+            "name": "Ab Wheel",
+            "sets": 3,
+            "reps": "building — current baseline 6/5/5",
+            "notes": "Perform from knees until consistently hitting 10+ reps before progressing to standing. Lower back must not take over — abs fail first or end the set. Expect significant progression over coming weeks."
+          },
+          {
+            "name": "Flutter Kicks",
+            "sets": 3,
+            "reps": "25-30",
+            "notes": "Optional finisher after ab wheel. Back flat against floor throughout — end set if lumbar lifts. Press lower back actively into floor."
+          }
+        ],
+        "cardio_options": [
+          {
+            "name": "Jump Rope Intervals",
+            "structure": "2 min work / 90 sec rest, 8 rounds (16 min working time)"
+          },
+          {
+            "name": "KB Swings + Burpees",
+            "structure": "5 rounds: 20 American swings (53 lb KB) + 10 burpees / 90 sec rest",
+            "notes": "American swing style — full overhead. Schedule away from upper body days to avoid pre-fatiguing traps and biceps."
+          },
+          {
+            "name": "Zone 2 Walk",
+            "structure": "30-45 minutes at conversational pace"
+          }
+        ]
+      },
+      "day_4": {
+        "label": "Upper Pull",
+        "exercises": [
+          {
+            "name": "Bent Over Barbell Row",
+            "sets": 4,
+            "reps": "8-15",
+            "working_weight_lbs": 160,
+            "notes": "Supinated (underhand) grip. Belt required. 4x8 achieved consistently — approaching progression to 165 lbs."
+          },
+          {
+            "name": "Weighted Pull-ups",
+            "sets": 4,
+            "reps": "5-8",
+            "working_weight_lbs": 25,
+            "notes": "25 lb dip belt. Progressed 4x5 → 4x6 → 4x7 across three sessions. Next milestone: 4x8, then advance to 30 lbs."
+          },
+          {
+            "name": "Single Arm KB Row",
+            "sets": 3,
+            "reps": "8-10 each arm",
+            "working_weight_lbs": 53,
+            "notes": "53 lb kettlebell. Alternating arms, 1-2 min rest between sets. Most recent: 10, 8, 9."
+          },
+          {
+            "name": "Lateral Raises",
+            "sets": 3,
+            "reps": "10-15",
+            "working_weight_lbs": 20,
+            "notes": "Same tempo cues as Day 1. Most recent: 11, 10, 10."
+          },
+          {
+            "name": "Hammer Curls",
+            "sets": "2-3",
+            "reps": "10-15",
+            "working_weight_lbs": 20,
+            "notes": "Cross-body variation — raises across body to sternum. Newly added this cycle. First session: 3x9 with slow eccentric and pause at top."
+          }
+        ]
+      },
+      "day_5": {
+        "label": "Lower Pull",
+        "exercises": [
+          {
+            "name": "Deadlift",
+            "sets": 3,
+            "reps": "5-8",
+            "working_weight_lbs": 275,
+            "notes": "Belt and straps. Assess on warmup — on fatigued days 275 is working weight, on good days 285 is appropriate. Let warmup dictate the session weight."
+          },
+          {
+            "name": "Romanian Deadlift",
+            "sets": 3,
+            "reps": "8-12",
+            "working_weight_lbs": 185,
+            "notes": "Belt and straps. Most recent: 3x12. FLAGGED: Recommendation to replace this instance with a leg curl or Nordic curl variation to reduce RDL frequency — currently appears on both lower days."
+          },
+          {
+            "name": "Glute Bridges",
+            "sets": 3,
+            "reps": "8-15",
+            "working_weight_lbs": "bodyweight",
+            "notes": "2-3 second isometric hold at top. External rotation cue — drive knees slightly outward at top."
+          },
+          {
+            "name": "Lunges",
+            "sets": 3,
+            "reps": "16-20 total (8-10 each leg)",
+            "working_weight_lbs": "bodyweight",
+            "notes": "Stationary. Can be loaded progressively as fitness improves."
+          }
+        ]
+      },
+      "day_6": {
+        "label": "Cardio / Active Recovery (Optional)",
+        "notes": "Same options as Day 3. This day is optional — skip entirely if cumulative fatigue is high. A full passive rest day is always valid.",
+        "ab_wheel": "Optional second ab wheel session if energy permits."
+      },
+      "day_7": {
+        "label": "Full Rest",
+        "notes": "No training, no cardio. Prioritize sleep, hydration, and higher carbohydrate intake to refuel for the following week."
+      }
+    }
+  },
+  "current_position": {
+    "last_workout_day": null,
+    "last_workout_date": null,
+    "notes": "Populate after first logged session."
+  },
+  "progression_flags": [
+    "Pause Back Squat: plan to progress to 175 lbs next appropriate session",
+    "Bent Over Row: approaching 165 lbs — watch for 4x8 milestone",
+    "Weighted Pull-ups: at 4x7 — next milestone 4x8, then advance to 30 lbs",
+    "Tricep Extension: working weight not yet established",
+    "Day 5 RDL: flagged for replacement with leg curl or Nordic curl variation",
+    "Ab Wheel: building from knees — target 10+ consistent reps before progressing to standing"
+  ]
+}
