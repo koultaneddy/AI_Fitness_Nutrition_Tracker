@@ -1,3 +1,144 @@
 {
-  "log": []
+  "log": [
+    {
+      "date": "2026-06-13",
+      "time": "21:35",
+      "description": "Greek yogurt, ground beef, white rice",
+      "protein_g": 68,
+      "carbs_g": 52,
+      "fat_g": 17,
+      "calories": 629,
+      "items": [
+        {
+          "name": "2% Greek Yogurt",
+          "amount_g": 100,
+          "protein_g": 10,
+          "carbs_g": 7,
+          "fat_g": 2,
+          "calories": 86
+        },
+        {
+          "name": "93/7 Ground Beef",
+          "amount_g": 200,
+          "protein_g": 54,
+          "carbs_g": 0,
+          "fat_g": 14,
+          "calories": 342
+        },
+        {
+          "name": "Cooked White Rice",
+          "amount_g": 150,
+          "protein_g": 4,
+          "carbs_g": 45,
+          "fat_g": 1,
+          "calories": 201
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "21:40",
+      "description": "Greek yogurt, ground beef, white rice",
+      "protein_g": 68,
+      "carbs_g": 52,
+      "fat_g": 17,
+      "calories": 629,
+      "items": [
+        {
+          "name": "2% Greek Yogurt",
+          "amount_g": 100,
+          "protein_g": 10,
+          "carbs_g": 7,
+          "fat_g": 2,
+          "calories": 86
+        },
+        {
+          "name": "93/7 Ground Beef",
+          "amount_g": 200,
+          "protein_g": 54,
+          "carbs_g": 0,
+          "fat_g": 14,
+          "calories": 342
+        },
+        {
+          "name": "Cooked White Rice",
+          "amount_g": 150,
+          "protein_g": 4,
+          "carbs_g": 45,
+          "fat_g": 1,
+          "calories": 201
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "21:43",
+      "description": "Greek yogurt, ground beef, white rice",
+      "protein_g": 68,
+      "carbs_g": 52,
+      "fat_g": 17,
+      "calories": 629,
+      "items": [
+        {
+          "name": "2% Greek Yogurt",
+          "amount_g": 100,
+          "protein_g": 10,
+          "carbs_g": 7,
+          "fat_g": 2,
+          "calories": 86
+        },
+        {
+          "name": "93/7 Ground Beef",
+          "amount_g": 200,
+          "protein_g": 54,
+          "carbs_g": 0,
+          "fat_g": 14,
+          "calories": 342
+        },
+        {
+          "name": "Cooked White Rice",
+          "amount_g": 150,
+          "protein_g": 4,
+          "carbs_g": 45,
+          "fat_g": 1,
+          "calories": 201
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "time": "21:45",
+      "description": "Greek yogurt, ground beef, white rice",
+      "protein_g": 68,
+      "carbs_g": 52,
+      "fat_g": 17,
+      "calories": 629,
+      "items": [
+        {
+          "name": "2% Greek Yogurt",
+          "amount_g": 100,
+          "protein_g": 10,
+          "carbs_g": 7,
+          "fat_g": 2,
+          "calories": 86
+        },
+        {
+          "name": "93/7 Ground Beef",
+          "amount_g": 200,
+          "protein_g": 54,
+          "carbs_g": 0,
+          "fat_g": 14,
+          "calories": 342
+        },
+        {
+          "name": "Cooked White Rice",
+          "amount_g": 150,
+          "protein_g": 4,
+          "carbs_g": 45,
+          "fat_g": 1,
+          "calories": 201
+        }
+      ]
+    }
+  ]
 }
